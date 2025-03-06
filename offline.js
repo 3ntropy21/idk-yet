@@ -135,6 +135,8 @@
 		"sans_bonestab3.csv",
 		"sans_multi3.csv",
 		"sans_final.csv",
+		"sans_blubone3.cvs",
+		"sigma.csv",
 		"sans_getdunkedon.csv"
 	]
 }
