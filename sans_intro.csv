@@ -83,6 +83,7 @@
 0,GasterBlaster,0,0,0,240,0,90,0.2,2
 0,GasterBlaster,0,0,0,320,0,90,0.2,2
 0,GasterBlaster,0,0,0,400,0,90,0.2,2
+0,CombatZoneResizeInstant,239,226,404,391,,,,
 2.5,SansHead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,
