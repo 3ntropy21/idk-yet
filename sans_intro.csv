@@ -86,14 +86,10 @@
 2,CombatZoneResize,0,0,400,400,,,,
 0,SET,Loop,0,
 0,ADD,Loop,%Loop,1,
-0,GasterBlaster,0,0,0,0,0,0,0.2,2
-0,GasterBlaster,0,0,0,0,80,0,0.2,2
 0,GasterBlaster,0,0,0,0,160,0,0.2,2
 0,GasterBlaster,0,0,0,0,240,0,0.2,2
 0,GasterBlaster,0,0,0,0,320,0,0.2,2
 0,GasterBlaster,0,0,0,0,400,0,0.2,2
-0,GasterBlaster,0,0,0,0,0,90,0.2,2
-0,GasterBlaster,0,0,0,80,0,90,0.2,2
 0,GasterBlaster,0,0,0,160,0,90,0.2,2
 0,GasterBlaster,0,0,0,240,0,90,0.2,2
 0,GasterBlaster,0,0,0,320,0,90,0.2,2
