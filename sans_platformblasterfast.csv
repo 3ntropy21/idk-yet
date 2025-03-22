@@ -2,8 +2,8 @@
 0,HeartTeleport,320,376,,,,,,
 0,HeartMode,1,,,,,,,
 0,TLPause,,,,,,,,
-0,PlatformRepeat,552,346,26,2,120,25,140,
-0,PlatformRepeat,-20,306,26,0,120,25,160,
+0,PlatformRepeat,552,346,5,2,120,25,140,
+0,PlatformRepeat,-20,306,5,0,120,25,160,
 0,BoneStab,0,100,0.1,25
 0,BoneStab,2,100,0.1,25
 0,SET,Loop,8,,,,,,
