@@ -91,6 +91,14 @@
 0,GasterBlaster,0,0,0,321,309,225,0.333,0.5
 0,GasterBlaster,0,0,0,321,309,270,0.333,0.5
 0,GasterBlaster,0,0,0,321,309,315,0.333,0.5
+2,GasterBlaster,0,0,0,321,309,22.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,67.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,112.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,157.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,202.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,247.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,292.5,0.333,0.5
+0,GasterBlaster,0,0,0,321,309,337.5,0.333,0.5
 2,CombatZoneResizeInstant,239,226,404,391,,,,
 0,GasterBlaster,0,0,0,0,160,0,0.2,2
 0,GasterBlaster,0,0,0,0,240,0,0.2,2
