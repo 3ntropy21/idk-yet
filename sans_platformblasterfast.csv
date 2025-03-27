@@ -6,7 +6,7 @@
 0,PlatformRepeat,-20,306,5,0,120,25,160,
 0,BoneStab,0,100,0.1,25
 0,BoneStab,2,100,0.1,25
-0,SET,Loop,8,,,,,,
+0,SET,Loop,4,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 0,RND,Y,3,,,,,,
 0,MUL,Y,$Y,40,,,,,

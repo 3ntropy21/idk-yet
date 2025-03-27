@@ -51,7 +51,9 @@
 0,SansAnimation,
 1,BoneStab,1,110,0.2,2
 1,BoneV,230,220,50,0,60,0,
-3,BoneStab,3,110,0.2,1
+1,BoneV,230,220,50,0,500,1,
+0.5,BoneV,230,220,50,0,550,1,
+1.5,BoneStab,3,110,0.2,1
 1,GasterBlaster,2.9,0,0,250,0,90,0.2,1
 0,GasterBlaster,2.9,0,0,390,0,90,0.2,1
 2.1,SansSlam,0,
